@@ -338,19 +338,19 @@ border-radius: 8px;
 
 /* slider imagenes banner baner */
 .slider-1 {
-  background-image: url(../images/slider/slider-1.jpg);
+  background-image: url(../../images/customer_images/slider/slider-1.jpg);
 }
 
 .slider-2 {
-  background-image: url(../images/slider/slider-2.jpg);
+  background-image: url(../../images/customer_images/slider/slider-2.jpg);
 }
 
 .slider-3 {
-  background-image: url(../images/slider/slider-3.jpg);
+  background-image: url(../../images/customer_images/slider/slider-3.jpg);
 }
 
 .slider-4 {
-  background-image: url(../images/slider/slider-4.jpg);
+  background-image: url(../../images/customer_images/slider/slider-4.jpg);
 }
 
 .sl-slider-wrapper {
@@ -522,7 +522,7 @@ border-radius: 8px;
 
 /* Project laughtbox setup */
 .fancybox-item.fancybox-close {
-  background: url("../images/icons/close.png") no-repeat scroll 0 0 transparent;
+  background: url("../../images/customer_images/icons/close.png") no-repeat scroll 0 0 transparent;
   height: 50px;
   right: 0;
   top: 0;
@@ -735,7 +735,7 @@ background-color: #455A64;
 	Testimonials
 ==================================================================*/
 #Colors, #Gradients {
-  background-image: url(../images/parallax/giphy-11.gif); 
+  background-image: url(../../images/customer_images/parallax/giphy-11.gif);
   /*padding: 0;*/
   color: #fff;
   position: relative;

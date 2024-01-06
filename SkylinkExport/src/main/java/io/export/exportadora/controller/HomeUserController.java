@@ -9,6 +9,6 @@ public class HomeUserController {
 	
 	@RequestMapping("/")
 	public String home() {
-		return "index";
+		return "customer_service/web_SkylinkExport";
 	}
 }
